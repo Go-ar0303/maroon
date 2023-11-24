@@ -1,0 +1,152 @@
+* {
+    font-family: Motserrat, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+
+}
+
+.cont {
+    margin: 10px;
+    padding: 0 120px;
+    width: 1450px;
+}
+.header_menu{
+    margin-top: 105px;
+    padding: 0px 75px;
+    
+}
+
+
+
+.header_body {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 65px;
+    
+}
+
+
+
+.aut_form {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    height: 45px;
+    font-size: 16px;
+    padding: 10px;
+
+
+}
+
+.form {
+    display: flex;
+    width: 100px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+.aut {
+    color: rgb(91, 119, 119);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.msg {
+    border: 2px solid orange;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.catalog {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 80px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid gold;
+    margin-left: 55px;
+}
+.cart{
+    margin-top: 70px ;
+    width: 1450px;
+}
+
+
+.upload {
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 45px;
+    width: 170px;
+    height: 45px;
+}
+
+.avat {
+    position: absolute;
+    margin-left: 1450px;
+    margin-top: -105px;
+    padding: 10px;
+}
+.ava{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: -85px;
+    margin-left: -115px;
+}
+
+.cream{
+    background: url(image/bg2.jpg);
+    margin-top: 70px ;
+    width: 1450px;
+    display: flex;
+    margin-bottom: 65px;
+    justify-content: center;
+  
+    
+}
+
+.cream_text,
+.cream2_txt{
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+
+    width: 550px;
+}
+
+.cream2{
+    margin-top: 70px ;
+    display: flex;
+    width: 1450px;
+    margin-bottom: 85px;
+}
+.roma{
+    background: url(image/bg3.jpg);
+    margin-top: 70px ;
+    width: 1450px;
+    text-align: center;
+    height: 433px;
+
+}
+
+.header_img{
+    width: 100%;
+}
+.cart{
+    width: 230px;
+    height: 312px;
+}
+.logout{
+
+}

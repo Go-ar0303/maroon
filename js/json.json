@@ -1,0 +1,86 @@
+{
+    "0001": {
+        "name": "High",
+        "price": 990,
+        "description": "крем для лица ",
+        "order": 1,
+        "img": "image/Rectangele 43.jpg"
+    },
+    "0002": {
+        "name": "Rest",
+        "price": 690,
+        "description": "минеральная пудра " ,
+        "order": 2,
+        "img": "image/Rectangele 44.jpg"
+    },
+    "0003": {
+        "name": "Rose",
+        "price": 890,
+        "description": " крем для лица",
+        "order": 3,
+        "img": "image/Rectangele 45.jpg"
+    },
+    "0004": {
+        "name": "Milk",
+        "price": 790 ,
+        "description": "масло для тела " ,
+        "order": 4,
+        "img": "image/Rectangele 46.jpg"
+    },
+     "0005": {
+        "name": "Paradise",
+        "price": 590,
+        "description": "минеральная пудра " ,
+        "order": 5,
+        "img": "image/Rectangele 47.jpg"
+    },
+     "0006": {
+        "name": "Sun",
+        "price": 90,
+        "description": "" ,
+        "order": 5,
+        "img": "image/Bath Bomb - Product-3 1.jpg"
+    },
+     "0007": {
+        "name": "Violet",
+        "cost": 890,
+        "description": " " ,
+        "order": 6,
+        "img": "image/Rectangele 49.jpg"
+    },
+     "0008": {
+        "name": "Clean",
+        "cost": 490,
+        "description": " " ,
+        "order": 5,
+        "img": "image/Rectangele 50.jpg"
+    },
+     "0009": {
+        "name": "Coconut",
+        "cost": 990,
+        "description": " " ,
+        "order": 5,
+        "img": "image/Rectangele 51.jpg"
+    },
+     "0010": {
+        "name": "Lavender",
+        "cost": 290,
+        "description": " " ,
+        "order": 10,
+        "img": "image/Rectangele 53.jpg"
+    },
+     "0011": {
+        "name": "Lotos",
+        "cost": 890,
+        "description": "" ,
+        "order": 11,
+        "img": "image/Rectangele 52.jpg"
+    },
+    "0012": {
+        "name": "Earth",
+        "cost": 90,
+        "description": "" ,
+        "order": 12,
+        "img": "image/Bath Bomb - Product-3 2.jpg"
+    }
+}
